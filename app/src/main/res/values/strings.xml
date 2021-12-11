@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app_fecha</string>
+    <string name="desbloquear">Desbloquear</string>
+    <string name="dia">Día</string>
+    <string name="mes">Mes</string>
+    <string name="anio">Año</string>
+</resources>
